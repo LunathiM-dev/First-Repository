@@ -1,5 +1,5 @@
 ## [SDF01] Challenge: My First Repo 🚀
-👋 Hi, I'm Lunathi Mkohlwa
+👋🏾 Hi, I'm Lunathi Mkohlwa
 
 ✨Aspiring Software Developer | 😎 Excited to Learn & Build
 
@@ -29,7 +29,7 @@ React
 
 🤔 creativite thinking
 
-🤝 Teamwork & Collaboration
+🤝🏾 Teamwork & Collaboration
 
 📢 Communication Skills
 
