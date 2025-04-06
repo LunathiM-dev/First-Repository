@@ -37,7 +37,8 @@ React
 
 🚀 Adaptability
 
-📌 Projects
+### 📌 Projects
+
 Here are some of my milestone projects (to be updated as I progress!):
 
 ### 1️⃣ First GitHub Project
